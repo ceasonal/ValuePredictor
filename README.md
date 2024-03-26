@@ -1,8 +1,12 @@
-# React + Vite
+# Football Player Price Prediction Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Football Player Price Prediction Website repository! This repository contains the source code for a one-page website built using React and Vite. The website provides users with the option to download the Football Player Price Prediction app or navigate to the website to make predictions. It is made for [@Sipher2003](https://github.com/Sipher2003).
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Simple Interface:** Clean and intuitive user interface for easy navigation.
+- **Download App:** Direct download link provided for the Football Player Price Prediction app.
+- **Make Predictions:** Option to visit the website and make predictions for football player market values.
+- **Responsive Design:** Responsive layout ensures optimal viewing experience across devices.
+
+
