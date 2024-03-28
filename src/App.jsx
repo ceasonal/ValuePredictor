@@ -1,7 +1,7 @@
 import React from "react";
 import Apk from "./assets/beyondthepitch.apk";
 import './App.css'
-// hi
+
 function App() {
   return (
     <div>
